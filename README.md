@@ -1,2 +1,2 @@
 # Chat-Application
-MERN Project
+MERN Project for 'HireQuotient' acceptance.
